@@ -17,7 +17,8 @@ It helps teachers or administrators easily track class-wise and month-wise atten
 ---
 
 ### 📁 Project Files
-- `streamlit_app.py` → Main dashboard code  
-- `attendance.csv` → Sample dataset  
-- `requirements.txt` → Python dependencies  
+- `python file(.py)` → Main dashboard code  
+- `CSV file(.csv)` → Sample dataset  
+- `requirements file(.txt)` → Python dependencies  
+
 
