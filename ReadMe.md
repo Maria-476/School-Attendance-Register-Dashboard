@@ -11,3 +11,13 @@ It helps teachers or administrators easily track class-wise and month-wise atten
 
 * Download filtered data as CSV
 
+
+🌐 **Live App:** [Click here to open](https://school-attendance-register-dashboard-fa7jkutcaaswzphafd3uzu.streamlit.app/)
+
+---
+
+### 📁 Project Files
+- `streamlit_app.py` → Main dashboard code  
+- `attendance.csv` → Sample dataset  
+- `requirements.txt` → Python dependencies  
+
